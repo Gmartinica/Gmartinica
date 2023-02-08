@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1><br>
+
 - 🔭 I’m currently working on a finance project
 
 - 🌱 I’m currently learning **React and MongoDB**
