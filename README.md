@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 
-- 🔭 I’m currently working on a finance project
+- 🔭 I’m currently working on a **web 3 project**
 
-- 🌱 I’m currently learning **React and MongoDB**
-
-- 🤝 I’m looking for help with **Frontend frameworks**
+- 🌱 I’m currently learning **Solidity** and **Defi**
 
 
 <h3 align="left">Some languages and tools I have worked with:</h3>
