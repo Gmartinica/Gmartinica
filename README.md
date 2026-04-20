@@ -6,4 +6,4 @@
 
 <h3 align="left">Some languages and tools I have worked with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,css,express,html,java,js,linux,mysql,nodejs,opencv,pandas,php,postman,py,pytorch,sklearn,selenium&perrow=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,css,express,html,java,js,linux,mysql,nodejs,opencv,php,postman,py,pytorch,sklearn,selenium&perrow=10)](https://skillicons.dev)
