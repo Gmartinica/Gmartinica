@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Web3 Developer & AI Automation Engineer</h3>
 
 - 🔭 I'm currently building a **Web3** project
 - ⛓️ Focused on **smart contract development**, **on-chain data pipelines**, and **DeFi integrations**
