@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 
-- 🔭 I'm currently building a **Web3** project
-- ⛓️ Focused on **smart contract development**, **on-chain data pipelines**, and **DeFi integrations**
-- 🤖 I build **AI-powered automation** tools that bridge Web3 and intelligent agents
-- 🌱 Deepening my knowledge of **Solidity**, **DeFi mechanics**, and **LLM-based workflows**
-- 💬 Ask me about **DeFi**, **Web3 automation**, **TypeScript** or **Python**
+- 🌱 Deepening my knowledge of **LLM-based workflows**, **Solidity** and **DeFi mechanics**
+- 💬 Ask me about **DeFi**, **AI**, **TypeScript** or **Python**
 
 <h3 align="left">Stack:</h3>
 
